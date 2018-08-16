@@ -1,0 +1,28 @@
+.top_header
+{
+position: fixed;
+z-index: 2;
+color: rgb(18, 19, 18);
+    text-align: center;
+    width: 100%;
+    border-bottom: 3px solid;
+    background: white;
+    top: 0;
+
+}
+
+.side_menu
+{
+position: fixed;
+right: 0;
+z-index: 1;
+border-left: 3px solid;
+
+}
+.content_area
+{
+width: 70%;
+padding-top: 80px;
+    margin: 0 auto;
+
+}
